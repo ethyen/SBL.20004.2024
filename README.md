@@ -35,8 +35,8 @@ The following are mandatory:
 
 - the header of the column containing the filename should be 'filename'
 - the filnames should _**exactly**_ match the ones your have created for your sample list sequence (see above)
-- you should add a column with the binomial denomination of all your samples (execpt for blanks in this case just write ND)
-- add a column with the iNaturalist observation id of your sample (execpt for blanks in this case just write ND)
+- you should add a column with the binomial denomination of all your samples (except for blanks in this case just write ND)
+- add a column with the iNaturalist observation id of your sample (except for blanks in this case just write ND). Just paste the link corresponding to your sample e.g. https://www.inaturalist.org/observations/112939194
 - the file should be saved as a [Tab separated values](https://en.wikipedia.org/wiki/Tab-separated_values) file. 
 
 Apart form this you can add any additional metadata you would like to map. E.g extraction method, medicinal use, group according to genetic analysis etc.
