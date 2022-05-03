@@ -1,0 +1,6 @@
+filename	ATTRIBUTE_Species	ATTRIBUTE_XXX	ATTRIBUTE_YYY																																						
+YYYYMMDD_groupX_DBGI_XX_XX_blank	ND	ND	Blank																																						
+YYYYMMDD_groupX_DBGI_XX_XX_01	Species speciosus	Gp_A	MeOH																																						
+YYYYMMDD_groupX_DBGI_XX_XX_02	Species speciosus	Gp_B	MeOH																																						
+YYYYMMDD_groupX_DBGI_XX_XX_03	Species superspeciocus	Gp_A	MeOH																																						
+YYYYMMDD_groupX_DBGI_XX_XX_04	Species superspeciocus	Gp_B	MeOH																																						
