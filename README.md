@@ -40,3 +40,6 @@ The following are mandatory:
 - the file should be saved as a [Tab separated values](https://en.wikipedia.org/wiki/Tab-separated_values) file. 
 
 Apart form this you can add any additional metadata you would like to map. E.g extraction method, medicinal use, group according to genetic analysis etc.
+
+
+👉 Upload both the sample list and the corresponding metadata file to your own github repository. Create this last one if needed.
