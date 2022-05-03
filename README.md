@@ -21,15 +21,15 @@ Please have a look at the Forum here : https://github.com/commons-teaching/forum
 ### Establish a sample list 
 
 In order to launch the injections of the samples you have prepared you will need to establish a sample list sequence. This file can be formatted as csv and here is a template example. 
-Please reuse [this template](https://github.com/commons-teaching/SBL.20004.2022/blob/ede97bca84d5c4a7751e24fe279b7d07927e8270/template_sequence.csv) by erasing all samples and adding yours. You can simply modify the column named "File Name", we will take care of the other fields at the moment of the injection.
+Please reuse [this template](https://github.com/commons-teaching/SBL.20004.2022/blob/main/sequence_template.csv) by erasing all samples and adding yours. You can simply modify the column named "File Name", we will take care of the other fields at the moment of the injection.
 For your sample naming please respect the following pattern :
-YYYYMMDD_groupX_DBGI_XX_XX_XX (for example 20220503_groupA_DBGI_01_03_15)
+**YYYYMMDD_groupX_DBGI_XX_XX_XX** (for example 20220503_groupA_DBGI_01_03_15)
 
 ### Establish a metadata file for your sample set
 
 In order to map additional metadata on your treated dataset you will need to prepare a metadata file. 
 Please respect the template available [here](
-https://github.com/commons-teaching/SBL.20004.2022/blob/main/sequence_template.csv) 
+https://github.com/commons-teaching/SBL.20004.2022/blob/main/metadata_template.txt) 
 
 The following are mandatory:
 
