@@ -29,7 +29,7 @@ YYYYMMDD_groupX_DBGI_XX_XX_XX (for example 20220503_groupA_DBGI_01_03_15)
 
 In order to map additional metadata on your treated dataset you will need to prepare a metadata file. 
 Please respect the template available [here](
-https://github.com/commons-teaching/SBL.20004.2022/blob/1f41f5de16686b99971e0aacdf86f2fcea0d9358/metadata_template.txt) 
+https://github.com/commons-teaching/SBL.20004.2022/blob/main/sequence_template.csv) 
 
 The following are mandatory:
 
