@@ -10,7 +10,7 @@ This repo groups material for the SBL.20004 teachings in 2022 spring semester. S
 
 - Course material:
 
-Most of the material is accessible at the following Zenodo repository: (to be uploaded)
+Most of the material is accessible at the following Zenodo repository: https://doi.org/10.5281/zenodo.6379085
 
 - Discussion and exchanges around the course :
 
