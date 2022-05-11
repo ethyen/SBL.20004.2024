@@ -16,6 +16,11 @@ Most of the material is accessible at the following Zenodo repository: https://d
 
 Please have a look at the Forum here : https://github.com/commons-teaching/forum/discussions
 
+- Working with markdown files (this document)
+
+https://docs.github.com/en/get-started/writing-on-github
+
+
 # Tasks for the practical
 
 ## Preparation of the profiling
