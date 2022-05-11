@@ -54,6 +54,7 @@ Profiling data on the Q-Exactive are available here https://drive.switch.ch/inde
 
 ### Requirements for data treatment session
 
+- Download Proteowizard https://proteowizard.sourceforge.io/
 - Download MzMine 2.53 https://github.com/mzmine/mzmine2/releases
 - Download Filezilla https://filezilla-project.org/download.php?type=client
 - Download Cytoscape https://cytoscape.org/
