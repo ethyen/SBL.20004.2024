@@ -43,3 +43,10 @@ Apart form this you can add any additional metadata you would like to map. E.g e
 
 
 👉 Upload both the sample list and the corresponding metadata file to your own github repository. Create this last one if needed.
+
+
+## MS Data
+
+Profiling data on the Q-Exactive are available here https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
+
+
