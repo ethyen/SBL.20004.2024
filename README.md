@@ -16,7 +16,9 @@ Most of the material is accessible at the following Zenodo repository: https://d
 
 Please have a look at the Forum here : https://github.com/commons-teaching/forum/discussions
 
-## Tasks for the practical 
+# Tasks for the practical
+
+## Preparation of the profiling
 
 ### Establish a sample list 
 
@@ -24,6 +26,8 @@ In order to launch the injections of the samples you have prepared you will need
 Please reuse [this template](https://github.com/commons-teaching/SBL.20004.2022/blob/main/sequence_template.csv) by erasing all samples and adding yours. You can simply modify the column named "File Name", we will take care of the other fields at the moment of the injection.
 For your sample naming please respect the following pattern :
 **YYYYMMDD_groupX_DBGI_XX_XX_XX** (for example 20220503_groupA_DBGI_01_03_15)
+
+## Data treatment
 
 ### Establish a metadata file for your sample set
 
@@ -41,12 +45,16 @@ The following are mandatory:
 
 Apart form this you can add any additional metadata you would like to map. E.g extraction method, medicinal use, group according to genetic analysis etc.
 
-
 👉 Upload both the sample list and the corresponding metadata file to your own github repository. Create this last one if needed.
 
 
-## MS Data
+### MS Data
 
 Profiling data on the Q-Exactive are available here https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
 
+### Requirements for data treatment session
+
+- Download MzMine 2.53 https://github.com/mzmine/mzmine2/releases
+- Download Filezilla https://filezilla-project.org/download.php?type=client
+- Download Cytoscape https://cytoscape.org/
 
