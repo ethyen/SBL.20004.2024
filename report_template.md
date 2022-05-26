@@ -65,6 +65,6 @@ Some conclusion that you could get out of this preliminary study.
 
 # References
 
-Note that you can make a footnot like this [^1]
+Note that you can make a footnote like this [^1]
 
 [^1]: Ref X
