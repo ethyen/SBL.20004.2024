@@ -23,9 +23,16 @@ https://docs.github.com/en/get-started/writing-on-github
 
 # Tasks for the practical
 
-## Preparation of the profiling
+## Upload to iNaturalist
 
-### Establish a sample list 
+All the observations of your collected samples should be uploaded to the iNaturalist DBGI project.
+For this you will need to :
+
+-  create an iNaturalist account at https://www.inaturalist.org/
+-  join the Digital Botanical Gardens Initiative at https://www.inaturalist.org/projects/digital-botanical-gardens-initiative
+-  upload your observations. Remind to activate the geolocalisation of your phone before making the pictures !
+
+## Preparation of injection sample list 
 
 In order to launch the injections of the samples you have prepared you will need to establish a sample list sequence. This file can be formatted as csv and here is a template example. 
 Please reuse [this template](https://github.com/commons-teaching/SBL.20004.2022/blob/main/sequence_template.csv) by erasing all samples and adding yours. You can simply modify the column named "File Name", we will take care of the other fields at the moment of the injection.
