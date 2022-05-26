@@ -62,7 +62,7 @@ Profiling data on the Q-Exactive are available here https://drive.switch.ch/inde
 - Download Proteowizard https://proteowizard.sourceforge.io/
 - Download MzMine 2.53 https://github.com/mzmine/mzmine2/releases
 - Download Filezilla https://filezilla-project.org/download.php?type=client
-- Download Cytoscape https://cytoscape.org/
+- Download Cytoscape https://cytoscape.org/ Download version 3.82 as the latest one still has bugs regarding color mapping options https://github.com/cytoscape/cytoscape/releases/3.8.2/
 
 ## Report preparation
 
