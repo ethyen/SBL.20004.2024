@@ -16,7 +16,7 @@ Most of the material is accessible at the following Zenodo repository: https://d
 
 Please have a look at the Forum here : https://github.com/commons-teaching/forum/discussions
 
-- Working with markdown files (this document)
+- Working with markdown files (the format of the document your are reading now)
 
 https://docs.github.com/en/get-started/writing-on-github
 
