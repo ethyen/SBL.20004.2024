@@ -64,3 +64,9 @@ Profiling data on the Q-Exactive are available here https://drive.switch.ch/inde
 - Download Filezilla https://filezilla-project.org/download.php?type=client
 - Download Cytoscape https://cytoscape.org/
 
+## Report preparation
+
+Please prepare your report and upload it to your own group github repository. The report template is available [here](https://github.com/commons-teaching/SBL.20004.2022/blob/23ea9493b07940f0592a2004e6caacd9e66ab359/report_template.md)
+
+
+
