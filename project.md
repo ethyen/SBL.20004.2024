@@ -13,3 +13,21 @@ Chemotaxonomic study of Rosaceae family.
 Number of samples to determine. 
 
 Check in the full list https://github.com/digital-botanical-gardens-initiative/taxonomical-preparator/blob/f8e853b0038a64ad8ea1a801a013848985f070b3/data/out/species_list_croisee_final.csv
+
+Find 20 samples, ideally 2 or 3 groups 
+
+
+# Group C
+
+## WT vs mutant (_Arabidopsis thaliana_ )
+Would require to be ready by next week though
+relative quantification
+
+## Untargeted metabolomics
+_Bollemia nobilis_ versus _Auracaria auracana_ phylogenetic study
+
+## Psychotria bacteriophyla 
+Compare leave nodules with Fabaceae roots nodule 
+
+# "fluorescence" compounds in specific plants
+
