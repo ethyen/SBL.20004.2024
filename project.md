@@ -30,8 +30,8 @@ _Wollemia nobilis_ versus _Auracaria auracana_ phylogenetic study
 ## _Psychotria bacteriophila_
 Compare leave nodules with Fabaceae roots nodule 
 
-# "Fluorescence" compounds in specific plants
+## "Fluorescence" compounds in specific plants
 
-# _Erythroxylum australe_ and metteloidine
+## _Erythroxylum australe_ and metteloidine
 Check for https://en.wikipedia.org/wiki/Meteloidine occurence in _Erythroxylum australe_
 
