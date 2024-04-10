@@ -19,15 +19,19 @@ Find 20 samples, ideally 2 or 3 groups
 
 # Group C
 
-## WT vs mutant (_Arabidopsis thaliana_ )
+## WT vs mutant (_Arabidopsis thaliana_)
+
 Would require to be ready by next week though
-relative quantification
+Relative quantification
 
 ## Untargeted metabolomics
-_Bollemia nobilis_ versus _Auracaria auracana_ phylogenetic study
+_Wollemia nobilis_ versus _Auracaria auracana_ phylogenetic study
 
-## Psychotria bacteriophyla 
+## _Psychotria bacteriophila_
 Compare leave nodules with Fabaceae roots nodule 
 
-# "fluorescence" compounds in specific plants
+# "Fluorescence" compounds in specific plants
+
+# _Erythroxylum australe_ and metteloidine
+Check for https://en.wikipedia.org/wiki/Meteloidine occurence in _Erythroxylum australe_
 
