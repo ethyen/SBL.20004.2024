@@ -62,7 +62,7 @@ Apart form this you can add any additional metadata you would like to map. E.g e
 
 ### MS Data
 
-Profiling data on the Q-Exactive are available here https://drive.switch.ch/index.php/s/U6Vezrq5mDVzSld
+Profiling data on the Q-Exactive are available here https://drive.switch.ch/index.php/s/2fBGywJMdQhUnZi
 
 ### Requirements for data treatment session
 
