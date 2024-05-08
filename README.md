@@ -44,13 +44,13 @@ For your sample naming please respect the following pattern :
 ### Establish a metadata file for your sample set
 
 In order to map additional metadata on your treated dataset you will need to prepare a metadata file. 
-Please respect the template available [here](
-https://github.com/commons-teaching/SBL.20004.2022/blob/main/metadata_template.txt) 
+Please respect the template available [here](https://docs.google.com/spreadsheets/d/1j9Oy79rfF13Psn7NOB0Sz3Z9W_K8Tp7gxzNfMRcfo1c/edit#gid=0) 
+
 
 The following are mandatory:
 
 - the header of the column containing the filename should be 'filename'
-- the filnames should _**exactly**_ match the ones your have created for your sample list sequence (see above)
+- the filenames should _**exactly**_ match the ones your have created for your sample list sequence (see above)
 - you should add a column with the binomial denomination of all your samples (except for blanks in this case just write ND)
 - add a column with the iNaturalist observation id of your sample (except for blanks in this case just write ND). Just paste the link corresponding to your sample e.g. https://www.inaturalist.org/observations/112939194
 - the file should be saved as a [Tab separated values](https://en.wikipedia.org/wiki/Tab-separated_values) file. 
@@ -66,6 +66,8 @@ DIETHELM Etienne <etienne.diethelm@unifr.ch>,
 GENET Justine <justine.genet@unifr.ch>,
 
 Directory is [mapp_batch_00109](https://github.com/commons-teaching/SBL.20004.2024/tree/main/docs/mapp_project_00050/mapp_batch_00109)
+
+See metadat example [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/metadata/treated/mapp_batch_00109.tsv)
 
 #### Group B
 THOMANN Gianin <gianin.thomann@unifr.ch>
