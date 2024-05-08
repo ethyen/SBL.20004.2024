@@ -59,6 +59,28 @@ Apart form this you can add any additional metadata you would like to map. E.g e
 
 👉 Upload both the sample list and the corresponding metadata file to your own github repository. Create this last one if needed.
 
+### Groups data
+
+#### Group A
+DIETHELM Etienne <etienne.diethelm@unifr.ch>,
+GENET Justine <justine.genet@unifr.ch>,
+
+Directory is [mapp_batch_00109](https://github.com/commons-teaching/SBL.20004.2024/tree/main/docs/mapp_project_00050/mapp_batch_00109)
+
+#### Group B
+THOMANN Gianin <gianin.thomann@unifr.ch>
+ZIFFERMAYER Luca <luca.ziffermayer@unifr.ch>
+
+Directory is [mapp_batch_00110](https://github.com/commons-teaching/SBL.20004.2024/tree/main/docs/mapp_project_00050/mapp_batch_00110)
+
+
+#### Group C
+THUERLER Elias <elias.thuerler@unifr.ch>,
+VARIDEL Lucie <lucie.varidel@unifr.ch>,
+ZENUNI Bujar <bujar.zenuni@unifr.ch>, 
+
+Directory is [mapp_batch_00111](https://github.com/commons-teaching/SBL.20004.2024/tree/main/docs/mapp_project_00050/mapp_batch_00111)
+
 
 ### MS Data
 
