@@ -95,6 +95,9 @@ Profiling data on the Q-Exactive are available here https://drive.switch.ch/inde
 - Download Filezilla https://filezilla-project.org/download.php?type=client
 - Download Cytoscape https://cytoscape.org/ Download version 3.82 as the latest one still has bugs regarding color mapping options https://github.com/cytoscape/cytoscape/releases/3.8.2/
 
+FBMN jobs can be launched (without login to GNPS2) through https://quickstart2.gnps2.org/FBMN_quickstart
+
+
 ## Report preparation
 
 Please prepare your report and upload it to your own group github repository. The report template is available [here](https://github.com/commons-teaching/SBL.20004.2022/blob/23ea9493b07940f0592a2004e6caacd9e66ab359/report_template.md)
