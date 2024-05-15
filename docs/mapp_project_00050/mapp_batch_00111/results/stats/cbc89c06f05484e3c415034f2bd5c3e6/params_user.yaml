@@ -1,0 +1,8 @@
+paths:
+  docs: '/Users/pma/Dropbox/git_repos/COMMONS_Lab/SBL.20004.2024/docs'
+  output: '/Users/pma/Dropbox/git_repos/COMMONS_Lab/SBL.20004.2024/docs/mapp_project_00050/mapp_batch_00111/results/stats' # Not mandatory, default is in the stats subdirectory
+
+operating_system:
+  system: unix # 
+  pandoc: "C:/Program Files/RStudio/resources/app/bin/quarto/bin/tools" ### only for windows
+

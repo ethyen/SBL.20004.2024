@@ -1,0 +1,25 @@
+create_time: 2024-05-15 08:12:44 PDT-0700
+description: FBMN_mapp_batch_00110_corrected_metadata
+featurefindingtool: MZMINE
+fragment_tolerance: '0.1'
+input_libraries: LIBRARYLOCATION/LC/LIBRARY
+input_raw_spectra: ''
+input_supplemental_edges: ''
+inputfeatures: USERUPLOAD/quickstart/53fa04a1-3e0c-4514-a4b0-9dfbea88c3d0/mapp_batch_00110_quant.csv
+inputspectra: USERUPLOAD/quickstart/53fa04a1-3e0c-4514-a4b0-9dfbea88c3d0/mapp_batch_00110.mgf
+library_analog_search: '0'
+library_min_cosine: '0.7'
+library_min_matched_peaks: '6'
+library_topk: '1'
+metadata_filename: USERUPLOAD/quickstart/53fa04a1-3e0c-4514-a4b0-9dfbea88c3d0/mapp_batch_00110_metadata.txt
+min_peak_intensity: '0.0'
+networking_max_shift: '1999'
+networking_min_cosine: '0.7'
+networking_min_matched_peaks: '6'
+normalization: None
+pm_tolerance: '0.1'
+precursor_filter: 'yes'
+task: e5d0393c9bca43a58dec302094152d54
+window_filter: 'yes'
+workflow_version: SERVER:0.1.2;WORKFLOW:2024.4.29
+workflowname: feature_based_molecular_networking_workflow

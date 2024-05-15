@@ -1,0 +1,117 @@
+{
+  "context": "Eudicots",
+  "governing_code": "ICN",
+  "includes_approximate_matches": true,
+  "includes_deprecated_taxa": false,
+  "includes_suppressed_names": false,
+  "matched_names": [
+    "erythroxylum coca",
+    "brugmansia insignis",
+    "erythroxylum australe"
+  ],
+  "results": [
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Erythroxylum coca",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "erythroxylum coca",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Erythroxylum coca",
+            "ott_id": 57960,
+            "rank": "species",
+            "source": "ott3.6draft1",
+            "synonyms": [
+              "Erythroxylum bolivianum",
+              "Erythroxylum chilpei",
+              "Erythroxylum peruvianum"
+            ],
+            "tax_sources": [
+              "ncbi:289672",
+              "gbif:2873939",
+              "irmng:10953697"
+            ],
+            "unique_name": "Erythroxylum coca"
+          }
+        }
+      ],
+      "name": "erythroxylum coca"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Brugmansia insignis",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "brugmansia insignis",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Brugmansia insignis",
+            "ott_id": 6091861,
+            "rank": "species",
+            "source": "ott3.6draft1",
+            "synonyms": [
+              "Datura insignis"
+            ],
+            "tax_sources": [
+              "gbif:5581057"
+            ],
+            "unique_name": "Brugmansia insignis"
+          }
+        }
+      ],
+      "name": "brugmansia insignis"
+    },
+    {
+      "matches": [
+        {
+          "is_approximate_match": false,
+          "is_synonym": false,
+          "matched_name": "Erythroxylum australe",
+          "nomenclature_code": "ICN",
+          "score": 1.0,
+          "search_string": "erythroxylum australe",
+          "taxon": {
+            "flags": [],
+            "is_suppressed": false,
+            "is_suppressed_from_synth": false,
+            "name": "Erythroxylum australe",
+            "ott_id": 6100208,
+            "rank": "species",
+            "source": "ott3.6draft1",
+            "synonyms": [],
+            "tax_sources": [
+              "ncbi:1081048",
+              "gbif:3694445"
+            ],
+            "unique_name": "Erythroxylum australe"
+          }
+        }
+      ],
+      "name": "erythroxylum australe"
+    }
+  ],
+  "taxonomy": {
+    "author": "open tree of life project",
+    "name": "ott",
+    "source": "ott3.6draft1",
+    "version": "3.6",
+    "weburl": "https://tree.opentreeoflife.org/about/taxonomy-version/ott3.6"
+  },
+  "unambiguous_names": [
+    "erythroxylum coca",
+    "brugmansia insignis",
+    "erythroxylum australe"
+  ],
+  "unmatched_names": []
+}

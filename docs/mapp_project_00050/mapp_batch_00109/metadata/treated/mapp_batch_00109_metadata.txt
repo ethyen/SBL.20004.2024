@@ -1,4 +1,3 @@
-filename	mapp_sample_id	sample_id	sample_type	source_taxon	factor	distant	full
 202404241731_EB_QC_00.mzML	EB_QC_00	EB_QC_00	QC	Biscutella laevigata	NA	NA	QC_Biscutella laevigata_NA_NA
 202404241731_EB_QC_01.mzML	EB_QC_01	EB_QC_01	QC	Biscutella laevigata	NA	NA	QC_Biscutella laevigata_NA_NA
 202404241731_EB_QC_02.mzML	EB_QC_02	EB_QC_02	QC	Biscutella laevigata	NA	NA	QC_Biscutella laevigata_NA_NA
