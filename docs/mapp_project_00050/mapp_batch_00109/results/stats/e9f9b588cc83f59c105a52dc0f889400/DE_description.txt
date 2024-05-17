@@ -1,0 +1,7 @@
+A "DatasetExperiment" object
+----------------------------
+name:          mapp_batch_00109 LCMS metabolomics dataset
+description:   TP SBL20004 2024 - Group A - Biscutella herbivory
+data:          9 rows x 4435 columns
+sample_meta:   9 rows x 9 columns
+variable_meta: 4435 rows x 152 columns

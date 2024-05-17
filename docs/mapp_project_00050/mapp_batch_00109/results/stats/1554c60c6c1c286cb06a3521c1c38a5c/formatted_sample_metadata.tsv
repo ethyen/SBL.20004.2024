@@ -1,0 +1,7 @@
+"factor"	"filename"	"full"	"location"	"mapp_sample_id"	"sample_id"	"sample_type"	"source_taxon"	"source_taxon_qid"
+"treatment"	"202404241731_EB_tp24_000011_01_01.mzML"	"sample_Biscutella laevigata_treatment_proximal"	"proximal"	"EB_tp24_000011_01_01"	"EB_tp24_000011_01_01"	"sample"	"Biscutella laevigata"	"Q384640"
+"treatment"	"202404241731_EB_tp24_000013_01_01.mzML"	"sample_Biscutella laevigata_treatment_proximal"	"proximal"	"EB_tp24_000013_01_01"	"EB_tp24_000013_01_01"	"sample"	"Biscutella laevigata"	"Q384640"
+"treatment"	"202404241731_EB_tp24_000014_01_01.mzML"	"sample_Biscutella laevigata_treatment_proximal"	"proximal"	"EB_tp24_000014_01_01"	"EB_tp24_000014_01_01"	"sample"	"Biscutella laevigata"	"Q384640"
+"control"	"202404241731_EB_tp24_000017_01_01.mzML"	"sample_Biscutella laevigata_control_NA"	"ND"	"EB_tp24_000017_01_01"	"EB_tp24_000017_01_01"	"sample"	"Biscutella laevigata"	"Q384640"
+"control"	"202404241731_EB_tp24_000018_01_01.mzML"	"sample_Biscutella laevigata_control_NA"	"ND"	"EB_tp24_000018_01_01"	"EB_tp24_000018_01_01"	"sample"	"Biscutella laevigata"	"Q384640"
+"control"	"202404241731_EB_tp24_000019_01_01.mzML"	"sample_Biscutella laevigata_control_NA"	"ND"	"EB_tp24_000019_01_01"	"EB_tp24_000019_01_01"	"sample"	"Biscutella laevigata"	"Q384640"

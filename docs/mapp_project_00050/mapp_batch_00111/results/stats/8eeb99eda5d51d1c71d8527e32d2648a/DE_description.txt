@@ -1,0 +1,7 @@
+A "DatasetExperiment" object
+----------------------------
+name:          mapp_batch_00111 LCMS metabolomics dataset
+description:   TP SBL20004 2024 - Group C - Rosaceae taxonomy
+data:          9 rows x 4380 columns
+sample_meta:   9 rows x 9 columns
+variable_meta: 4380 rows x 152 columns

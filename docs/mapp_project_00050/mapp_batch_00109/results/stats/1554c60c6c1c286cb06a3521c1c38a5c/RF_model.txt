@@ -1,0 +1,23 @@
+An rfPermute model
+
+               Type of random forest: classification 
+                     Number of trees: 500 
+No. of variables tried at each split: 14 
+       No. of permutation replicates: 500 
+                          Start time: 2024-05-17 14:04:26 
+                            End time: 2024-05-17 14:04:33 
+                            Run time: 6.36 secs 
+
+                                               sample_Biscutella laevigata_control_NA
+sample_Biscutella laevigata_control_NA                                              3
+sample_Biscutella laevigata_treatment_proximal                                      0
+Overall                                                                            NA
+                                               sample_Biscutella laevigata_treatment_proximal
+sample_Biscutella laevigata_control_NA                                                      0
+sample_Biscutella laevigata_treatment_proximal                                              3
+Overall                                                                                    NA
+                                               pct.correct LCI_0.95 UCI_0.95
+sample_Biscutella laevigata_control_NA                 100     29.2      100
+sample_Biscutella laevigata_treatment_proximal         100     29.2      100
+Overall                                                100     54.1      100
+
