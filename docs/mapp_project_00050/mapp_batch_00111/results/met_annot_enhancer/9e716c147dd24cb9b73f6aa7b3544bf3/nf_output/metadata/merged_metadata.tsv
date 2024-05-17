@@ -1,0 +1,24 @@
+filename	mapp_sample_id	sample_id	sample_type	source_taxon	source_taxon_genus	source_taxon_bot	soure_taxon_inat
+202404241651_EB_dbgi_003163_01_01.mzML	dbgi_003163_01_01	dbgi_003163_01_01	sample	Malus pumila	Malus	Malus pumila var. paradisiaca (L.) C.K. Schneid.	Pumila
+202404241651_EB_dbgi_003169_01_02.mzML	dbgi_003169_01_02	dbgi_003169_01_02	sample	Prunus cerasifera	Prunus	Prunus cerasifera Ehrh.	Prunus cerasifera
+202404241651_EB_dbgi_003173_01_01.mzML	dbgi_003173_01_01	dbgi_003173_01_01	sample	Prunus padus	Prunus	Prunus padus subsp. petraea Domin	Prunus petraea
+202404241651_EB_dbgi_003186_01_01.mzML	dbgi_003186_01_01	dbgi_003186_01_01	sample	Malus sylvestris	Malus	Malus sylvestris (L) Mill.	
+202404241651_EB_dbgi_003190_01_01.mzML	dbgi_003190_01_01	dbgi_003190_01_01	sample	Malus floribunda	Malus	Malus floribunda Van Houtte	Malus floribunda
+202404241651_EB_dbgi_003194_02_01.mzML	dbgi_003194_02_01	dbgi_003194_02_01	sample	Potentilla sterilis	Potentilla	Potentilla sterilis Garcke	Potentilla sterilis
+202404241651_EB_dbgi_003200_01_01.mzML	dbgi_003200_01_01	dbgi_003200_01_01	sample	Potentilla rupestris	Potentilla	Potentilla rupestris L.	Potentilla
+202404241651_EB_dbgi_003206_01_01.mzML	dbgi_003206_01_01	dbgi_003206_01_01	sample	Potentilla recta	Potentilla	Potentilla recta L.	Potentilla recta
+202404241651_EB_dbgi_003210_02_01.mzML	dbgi_003210_02_01	dbgi_003210_02_01	sample	Prunus tomentosa	Prunus	Prunus tomentosa Murray	Prunus tomentosa
+202404241651_EB_dbgi_mapp_QC_01.mzML	dbgi_mapp_QC_01	dbgi_mapp_QC_01	QC	Malus pumila, Prunus cerasifera, Prunus padus, Malus sylvestris, Malus floribunda, Potentilla sterilis, Potentilla rupestris, Potentilla recta, Prunus tomentosa	Malus, Prunus, Potentilla		
+202404241651_EB_dbgi_mapp_QC_02.mzML	dbgi_mapp_QC_02	dbgi_mapp_QC_02	QC	Malus pumila, Prunus cerasifera, Prunus padus, Malus sylvestris, Malus floribunda, Potentilla sterilis, Potentilla rupestris, Potentilla recta, Prunus tomentosa	Malus, Prunus, Potentilla		
+202404241651_EB_dbgi_mapp_QC_03.mzML	dbgi_mapp_QC_03	dbgi_mapp_QC_03	QC	Malus pumila, Prunus cerasifera, Prunus padus, Malus sylvestris, Malus floribunda, Potentilla sterilis, Potentilla rupestris, Potentilla recta, Prunus tomentosa	Malus, Prunus, Potentilla		
+202404241651_EB_dbgi_mapp_QC_04.mzML	dbgi_mapp_QC_04	dbgi_mapp_QC_04	QC	Malus pumila, Prunus cerasifera, Prunus padus, Malus sylvestris, Malus floribunda, Potentilla sterilis, Potentilla rupestris, Potentilla recta, Prunus tomentosa	Malus, Prunus, Potentilla		
+202404241651_EB_dbgi_mapp_QC_05.mzML	dbgi_mapp_QC_05	dbgi_mapp_QC_05	QC	Malus pumila, Prunus cerasifera, Prunus padus, Malus sylvestris, Malus floribunda, Potentilla sterilis, Potentilla rupestris, Potentilla recta, Prunus tomentosa	Malus, Prunus, Potentilla		
+202404241651_EB_dbgi_mapp_QC_06.mzML	dbgi_mapp_QC_06	dbgi_mapp_QC_06	QC	Malus pumila, Prunus cerasifera, Prunus padus, Malus sylvestris, Malus floribunda, Potentilla sterilis, Potentilla rupestris, Potentilla recta, Prunus tomentosa	Malus, Prunus, Potentilla		
+202404241651_EB_dbgi_mapp_blk_01.mzML	dbgi_mapp_blk_01	dbgi_mapp_blk_01	BK				
+202404241651_EB_dbgi_mapp_blk_02.mzML	dbgi_mapp_blk_02	dbgi_mapp_blk_02	BK				
+202404241651_EB_dbgi_mapp_blk_post01.mzML	dbgi_mapp_blk_post01	dbgi_mapp_blk_post01	BK				
+202404241651_EB_dbgi_mapp_blk_post02.mzML	dbgi_mapp_blk_post02	dbgi_mapp_blk_post02	BK				
+202404241651_EB_dbgi_mapp_blk_post03.mzML	dbgi_mapp_blk_post03	dbgi_mapp_blk_post03	BK				
+202404241651_EB_dbgi_mapp_blk_pre01.mzML	dbgi_mapp_blk_pre01	dbgi_mapp_blk_pre01	BK				
+202404241651_EB_dbgi_mapp_blk_pre02.mzML	dbgi_mapp_blk_pre02	dbgi_mapp_blk_pre02	BK				
+202404241651_EB_dbgi_mapp_blk_pre03.mzML	dbgi_mapp_blk_pre03	dbgi_mapp_blk_pre03	BK				
