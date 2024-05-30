@@ -42,6 +42,6 @@ Those software were used :
 After filtering with MzMine, the amount of features could be reduced to 4436.  The feature list can be found [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00109/results/mzmine/mapp_batch_00109_quant.csv)
 
 ### Molecular Network
-Screenshots of your molecular network and of some clusters of interest. Link to the GNPS job. Link to the GNPS identification table.
+Figure XXX show the molecular network of our features. Each node is represented by a pie chart, whose size is proportionate to the peak area of the feature. The colors indicate from wich samples the feature come, blue beeing control plant, pink distant treatment on plant, red direct treatment on plant, orange control larvae and yellow treatment larvae.
 ## Conclusion
 Some conclusion that you could get out of this preliminary study.
