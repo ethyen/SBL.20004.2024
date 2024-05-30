@@ -17,7 +17,7 @@ Following Darwin’s model of evolution, all living beings on earth are related 
 
 In this study, we have chosen to verify the phylogeny of 9 plants from the economical and societal important *Rosaceae* family (*Malus sylvestris, Malus pumila, Malus floribunda, Prunus tomentosa, Prunus padus, Prunus cerasifera, Drymocallis (Potentilla) rupestris, Potentilla sterilis, Potentilla recta*). Phylogenetically the genus of *Malus* and *Prunus* are closer to each other than *Potentilla*. Due to this relation we wanted to investigate if the metabolome of each species, reflects this classification depicted in Figure 1. The chemotaxonomic relationship between each three genera was determined by comparing their metabolome. The metabolome of each plant was acquired by mass spectrometry.
 
-The phylogenetic tree (Figure 1) of the plants specie investigated in this study shows the relation beteween the genera depending on macroscopic and microscopic properties of the plants. The information was taken from the [NCBI website](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi) and the phylogenetic tree was generated on [phyloT](https://phylot.biobyte.de/). *Note: Drymocallis rupestris is a synonym for Potentilla rupestris.* 
+The phylogenetic tree (Figure 1) of the plants specie investigated in this study shows the relation beteween the genera depending on macroscopic and microscopic properties of the plants. The information was taken from the [NCBI website](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi) and the phylogenetic tree was generated on [phyloT](https://phylot.biobyte.de/).  
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/image.png)
 
