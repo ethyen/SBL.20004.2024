@@ -84,82 +84,82 @@ The final feature list was exported as both .CSV and .MGF files. Both files with
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/heatmap_legend.png)
 
-<p align="center"> Figure ?: Heatmap - Abundance of MS features
+<p align="center"> Figure 2: Heatmap - Abundance of MS features
 
-The heatmap (Figure ?) shows rather clearly distinct groups of features, characteristic for both the *Malus* and *Potentilla* genera, while *Prunus* appears to share its most intense features with the two other groups. As can be seen at the top of the graphic, the similarity tree shows *Potentilla* and *Prunus* as being more closely related to each other than to *Malus*. This is unexpected as this does not reflect the reality of the phylogenetic relationship existing between the three genera, where *Malus* and *Prunus* are closely related and *Potentilla* is more distant.
+The heatmap (Figure 2) shows rather clearly distinct groups of features, characteristic for both the *Malus* and *Potentilla* genera, while *Prunus* appears to share its most intense features with the two other groups. As can be seen at the top of the graphic, the similarity tree shows *Potentilla* and *Prunus* as being more closely related to each other than to *Malus*. This is unexpected as this does not reflect the reality of the phylogenetic relationship existing between the three genera, where *Malus* and *Prunus* are closely related and *Potentilla* is more distant.
 
 #### PCA
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/PCA.png)
 
-<p align="center"> Figure ?: Principal Component Analysis (PCA) on the nine samples
+<p align="center"> Figure 3: Principal Component Analysis (PCA) on the nine samples
 
-The Principal Component Analysis (PCA) (Figure ?) scores show *Malus* and *Potentilla* as being relatively close in the variable space in comparison to *Prunus*, which is slightly more distant. This stands in contrast to the results given in the heatmap where *Malus* is the clear outlier. Because PCA only allows the visualization of separation across the two main components of the variable space [^15], it could be the case that *Malus* possesses many small variations on least significant components that can not be reflected in this visualization, but are taken into account when making the hitmap and tree. This would explain the apparent contradiction of the results.
+The Principal Component Analysis (PCA) (Figure 3) scores show *Malus* and *Potentilla* as being relatively close in the variable space in comparison to *Prunus*, which is slightly more distant. This stands in contrast to the results given in the heatmap where *Malus* is the clear outlier. Because PCA only allows the visualization of separation across the two main components of the variable space [^15], it could be the case that *Malus* possesses many small variations on least significant components that can not be reflected in this visualization, but are taken into account when making the hitmap and tree. This would explain the apparent contradiction of the results.
 
 #### PCoA
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/PCoA.png)
 
-<p align="center"> Figure ?: Principal Coordinates Analysis (PCoA) on the nine samples
+<p align="center"> Figure 4: Principal Coordinates Analysis (PCoA) on the nine samples
 
-The Principal Coordinates Analysis (PCoA) (Figure ?) shows the three groups to be equidistant. Similarly to the PCA, a lot of variation is lost in this visualization, which could explain the differences with the heatmap’s results. In contrast to the PCA, PCoA requires a calculation of the distances between the points prior to the reduction of the component space. This additional step explains the difference with the PCA results.
+The Principal Coordinates Analysis (PCoA) (Figure 4) shows the three groups to be equidistant. Similarly to the PCA, a lot of variation is lost in this visualization, which could explain the differences with the heatmap’s results. In contrast to the PCA, PCoA requires a calculation of the distances between the points prior to the reduction of the component space. This additional step explains the difference with the PCA results.
 
 #### PLS-DA
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/PLS-DA.png)
 
-<p align="center"> Figure ?: Partial Least-Squares Discriminant Analysis (PLS-DA) on the nine samples
+<p align="center"> Figure 5: Partial Least-Squares Discriminant Analysis (PLS-DA) on the nine samples
 
-The Partial Least-Squares Discriminant Analysis (PLS-DA) (Figure ?) shows *Malus* and *Prunus* as being closer to one another than to *Potentilla*, the outlier. This is in accordance with the hypothesis that the chemotaxonomy should match the phylogeny of the genera that we analyzed. It is not in accordance, however, with the heatmap, PCA, and PCoA outputs. Contrary to the PCA, the PLS-DA is made while being aware of the group labels [^16]. The calculation then aims to separate the groups by variance rather than to separate the points. Although this returns a result more in line with the initial working hypothesis, it is complicated to take it as gospel given the variety of other results obtained through other methods. No general trend can be discerned.
+The Partial Least-Squares Discriminant Analysis (PLS-DA) (Figure 5) shows *Malus* and *Prunus* as being closer to one another than to *Potentilla*, the outlier. This is in accordance with the hypothesis that the chemotaxonomy should match the phylogeny of the genera that we analyzed. It is not in accordance, however, with the heatmap, PCA, and PCoA outputs. Contrary to the PCA, the PLS-DA is made while being aware of the group labels [^16]. The calculation then aims to separate the groups by variance rather than to separate the points. Although this returns a result more in line with the initial working hypothesis, it is complicated to take it as gospel given the variety of other results obtained through other methods. No general trend can be discerned.
 
 #### PLS-VIP
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/VIP.png)
 
 
-<p align="center"> Figure ?: VIP scores in the PLS-DA analysis
+<p align="center"> Figure 6: VIP scores in the PLS-DA analysis
 
-The VIP score for the PLS-DA analysis (Figure ?) shows the principal differentiating features between genera. Most features reported appear as single nodes or small connected networks in cytoscape making them difficult to interpret and discuss but some of them are part of bigger clusters which will be discussed in the following parts of this study.
+The VIP score for the PLS-DA analysis (Figure 6) shows the principal differentiating features between genera. Most features reported appear as single nodes or small connected networks in cytoscape making them difficult to interpret and discuss but some of them are part of bigger clusters which will be discussed in the following parts of this study.
 
 ### Molecular Network
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/molecular_network_figure.png)
 
-<p align="center"> Figure ?: Molecular network based on MS features
+<p align="center"> Figure 7: Molecular network based on MS features
 
-The molecular network shows a wide range of trees containing many interconnected nodes. The selection of trees of interest for this study is based of a few criteria. Firstly, because the interest lies in the differentiation of genera, the most important metabolites of the network must be present in more than one species of a given genus. Secondly, the network must contain a sufficient amount of nodes so as to minimize the chances of analyzing an artefact. Lastly, the metabolites of interest should not be present in the blank, or in very small amounts. The following section will show some of the networks meeting these standards.
+The molecular network (Figure 7) shows a wide range of trees containing many interconnected nodes. The selection of trees of interest for this study is based of a few criteria. Firstly, because the interest lies in the differentiation of genera, the most important metabolites of the network must be present in more than one species of a given genus. Secondly, the network must contain a sufficient amount of nodes so as to minimize the chances of analyzing an artefact. Lastly, the metabolites of interest should not be present in the blank, or in very small amounts. The following section will show some of the networks meeting these standards.
 
 #### *Potentilla* discriming features
 Some features found in this analysis discriminate the *Potentilla* genus from the *Malus* and *Prunus* genera and three will be presented below.
 
 1. **D-sorbitol**
 
-According to the molecular network that was build, D-sorbitol (feature id 11) is found in both the *Malus* and *Prunus* genera but not in the *Potentilla* genus (Figure ?). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* genus rely more on sucrose (Figure ?) and its related compounds than on sorbitol. Indeed sucrose compounds are found mostly in the *Potentilla* genus and less in the *Malus* and *Prunus* families Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
+According to the molecular network that was build, D-sorbitol (feature id 11) is found in both the *Malus* and *Prunus* genera but not in the *Potentilla* genus (Figure 8). D-sorbitol accumulation occurs when plants encounter stress conditions and serve as carbon and energy source [^1]. It has been shown that plants rely either on sorbitol or sucrose as the predominant photosynthetic product [^2]. This is the case in the *Malus* and *Prunus* families [^2]. From the molecular network is seems therefore that the *Potentilla* genus rely more on sucrose (Figure 9) and its related compounds than on sorbitol. Indeed sucrose compounds are found mostly in the *Potentilla* genus and less in the *Malus* and *Prunus* families Another study performed in *Prunus armeniaca* relates the sorbitol synthesis and therefore accumulation linked to aging of the leaves [^1].
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/d-sorbitol_figure.png)
 
-<p align="center"> Figure ?: MS2 spectra of D-sorbitol and molecular network of D-sorbitol 
+<p align="center"> Figure 8: MS2 spectra of D-sorbitol and molecular network of D-sorbitol 
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/sucrose_figure.png)
 
-<p align="center"> Figure ?: Molecular network of sucrose and its related compounds
+<p align="center"> Figure 9: Molecular network of sucrose and its related compounds
 
 2. **Salicylic acid**
 
-On the molecular network, salicylic acid (feature id 1229) is mostly found in the *Potentilla* genus and not in the *Malus* or *Prunus* genus (Figure ?). Salicylic acid is a phenolic acid involved in plant defense against pathogens and plant growth regulation upon stress [^3]. Salicylic acid is also involved in stress responses such as heat and drought. Reduced levels of salicylic acid show an enhanced susceptibility to pathogens [^4]. 
+On the molecular network, salicylic acid (feature id 1229) is mostly found in the *Potentilla* genus and not in the *Malus* or *Prunus* genus (Figure 10). Salicylic acid is a phenolic acid involved in plant defense against pathogens and plant growth regulation upon stress [^3]. Salicylic acid is also involved in stress responses such as heat and drought. Reduced levels of salicylic acid show an enhanced susceptibility to pathogens [^4]. It is therefore speculated that the *Potentilla* rely on different defense mechanism than *Malus* and *Prunus*. 
 
-*Note: The full molecular network were the salicylic acid is located is displayed in Figure ???? (Bujar). In Figure ? a closer screenshot was taken to better vizualise the closely related features of salicylic acid*
+*Note: The full molecular network were the salicylic acid is located is displayed in Figure 13. In Figure 10 a closer screenshot was taken to better vizualise the closely related features of salicylic acid.*
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/salicylic_acid_figure.png)
 
-<p align="center"> Figure ?: MS2 spectra of salicylic acid and molecular network of salicylic acid 
+<p align="center"> Figure 10: MS2 spectra of salicylic acid and molecular network of salicylic acid 
 
 3. **Imidurea (Imidazolidinyl urea)**
 
-On the molecular network, imidurea (feature id 1942) is mostly in found in the *Potentilla* genus and less present in both the *Malus* and *Prunus* families (Figure ?).  Imidurea is known to exhibit antimicrobial agent properties against various microorganisms and is used in pharmaceutical and cosmetic products [^5]. It is therefore speculated that imidurea might be linked to a plant defense mechanism. 
+On the molecular network, imidurea (feature id 1942) is mostly in found in the *Potentilla* genus and less present in both the *Malus* and *Prunus* families (Figure 11). Imidurea is known to exhibit antimicrobial agent properties against various microorganisms and is used in pharmaceutical and cosmetic products [^5]. It is therefore speculated that imidurea might be linked to a plant defense mechanism, which would align with the speculation made in the previous paragraph, that *Potentilla* have different defense mechanism compared to the two other genera. 
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/imidurea_figure.png)
 
-<p align="center"> Figure ?: MS2 spectra of imidurea (imidazolidinyl urea) and molecular network of imidurea (imidazolidinyl urea)
+<p align="center"> Figure 11: MS2 spectra of imidurea (imidazolidinyl urea) and molecular network of imidurea (imidazolidinyl urea)
 
 #### *Malus* discriming features
 Some features found in this analysis discriminate the *Malus* genus from the *Potentilla* and *Prunus* genera and will be presented below.
@@ -168,29 +168,25 @@ Some features found in this analysis discriminate the *Malus* genus from the *Po
 
 Phloretin (feature id 1), Phlorizin (feature id 16), Naringenin (feature id 134) were identified from the molecular network. They are all classified as flavonoids, which also make the most abundant metabolite group of the *Malus* genus. Flavonoids are polyphenolic Flavan derivates present in plants. In general, flavonoids are biochemically synthesized in plants via the shikimate pathway. [^6]
 
-Phloretin and Phlorizin are specially interesting because they were found only in the *Malus* genus at equal parts for each species in this study (Figure ?), making them a good distinguishing factor for this genus. Regarding that phloretin was exclusively found in the *Malus* genus (see [Phloretin](https://lotus.naturalproducts.net/compound/lotus_id/LTS0003293) and [Phlorizin](https://lotus.naturalproducts.net/compound/lotus_id/LTS0198771 ) entries on [Lotus](https://lotus.naturalproducts.net)) and it is structurally very similar to phlorizin because it is the glycoside of phloretin, it makes sense that phlorizin is also found exclusively in this genus. 
+Phloretin and Phlorizin are specially interesting because they were found only in the *Malus* genus at equal parts for each species in this study (Figure 12), making them a good distinguishing factor for this genus. Regarding that phloretin was exclusively found in the *Malus* genus (see [Phloretin](https://lotus.naturalproducts.net/compound/lotus_id/LTS0003293) and [Phlorizin](https://lotus.naturalproducts.net/compound/lotus_id/LTS0198771 ) entries on [Lotus](https://lotus.naturalproducts.net)) and it is structurally very similar to phlorizin because it is the glycoside of phloretin, it makes sense that phlorizin is also found exclusively in this genus. 
 
-Naringenin is a flavonoid found enriched the *Malus* genus(*Malus pumila and Malus domestica*). In the molecular network (Figure ??) there was shown that also a smaller part of the Naringenin clade was included in the *Potentilla* and *Prunus* genus. The Naringenin node conversely represents only the *Malus* genus making it also a distinguishing factor for the genus.
+Naringenin is a flavonoid found enriched the *Malus* genus(*Malus pumila and Malus domestica*). In the molecular network (Figure 12) there was shown that also a smaller part of the Naringenin clade was included in the *Potentilla* and *Prunus* genus. The Naringenin node conversely represents only the *Malus* genus making it also a distinguishing factor for the genus.
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/flavonoid_figure.png)
 
-<p align="center"> Figure ?: MS2 spectra of phloretin, phlorizin and naringenin and molecular network of phloretin, phlorizin and naringenin
+<p align="center"> Figure 12: MS2 spectra of phloretin, phlorizin and naringenin and molecular network of phloretin, phlorizin and naringenin
 
 2. **p-Coumaric acid**
 
-p-coumaric acid (feature id 847) is a hydroxycinnamic acid and is normally found in the fruits of *Malus domestica* and in the bark of *Prunus serotina* [^7]. Interestingly, we found that the *Malus* genus has this molecule and other similar molecules in common with *Potentilla* and *Prunus*. The enrichment of p-coumaric acid in *Malus* is bigger than in *Potentilla* and *Prunus*. The whole clade of similar structures is distributed over all genera. Some of the nodes are exclusively for one genus and others are shared between all three or between two of the genera. In general, the clade of p-Coumaric acid shows similarities in the metabolome of all three genera. Looking closer to the relative distribution of the nodes, there are some sub-clades that are exclusive for one genus and can be distinguished from the other nodes.  
+p-coumaric acid (feature id 847) is a hydroxycinnamic acid and is normally found in the fruits of *Malus domestica* and in the bark of *Prunus serotina* [^7]. Interestingly, we found that the *Malus* genus has this molecule and other similar molecules in common with *Potentilla* and *Prunus*. The enrichment of p-coumaric acid in *Malus* is bigger than in *Potentilla* and *Prunus* (Figure 13). The whole clade of similar structures is distributed over all genera. Some of the nodes are exclusively for one genus and others are shared between all three or between two of the genera. In general, the clade of p-Coumaric acid shows similarities in the metabolome of all three genera. Looking closer to the relative distribution of the nodes, there are some sub-clades that are exclusive for one genus and can be distinguished from the other nodes.  
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/p_coumaric_acid.png)
 
-<p align="center"> Figure ?: MS2 spectra of p-coumaric acid and molecular network of p-coumaric acid
-
-Screenshots of your molecular network and of some clusters of interest.
-Link to the GNPS job.
-Link to the GNPS identification table.
+<p align="center"> Figure 13: MS2 spectra of p-coumaric acid and molecular network of p-coumaric acid
 
 #### *Prunus* discriming features
 
-Few features found in this analysis discriminate the *Prunus* genus from the *Malus* and *Potentilla* genera and one will be present below.
+Only few features found in this analysis discriminate the *Prunus* genus from the *Malus* and *Potentilla* genera and one will be present below.
 
 1. **Arecatannin A2**
 
@@ -203,9 +199,9 @@ Procyanidin C1 is a trimer that has been shown to have senotherapeutic activity 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/arecatannin_a2_figure.png)
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/procyanidin.png)
 
-<p align="center"> Figure ?: MS2 spectra of Arecatannin A2, Procyanidin B2, Procyanidin C1 and their molecular network 
+<p align="center"> Figure 14: MS2 spectra of Arecatannin A2, Procyanidin B2, Procyanidin C1 and their molecular network 
 
-The major features of the network are overwhelmingly abundant in at least two species of *Prunus*, while research papers state that at least two of them are notably found in apples (*Malus*). This surprising result could be explained by the fact that the samples used in this study come from plant leaves and not fruits, on which previous research has been done. Minor features, meanwhile, show differences in their provenance. With proanthocyanidins being regarded as functional and health improving ingredients in beverages, food, and herbal remedies [^14], their proportional abundance in the leaves of the Prunus genus could be an interesting starting point to investigate their presence in other parts of the plants and how they compare with other species known to contain these metabolites.
+The major features of the network are overwhelmingly abundant in at least two species of *Prunus* (Figure 14), while research papers state that at least two of them are notably found in apples (*Malus*). This surprising result could be explained by the fact that the samples used in this study come from plant leaves and not fruits, on which previous research has been done. Minor features, meanwhile, show differences in their provenance. With proanthocyanidins being regarded as functional and health improving ingredients in beverages, food, and herbal remedies [^14], their proportional abundance in the leaves of the Prunus genus could be an interesting starting point to investigate their presence in other parts of the plants and how they compare with other species known to contain these metabolites.
 
 ## Conclusion
 
