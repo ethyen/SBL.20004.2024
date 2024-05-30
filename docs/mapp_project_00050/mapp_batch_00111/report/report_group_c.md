@@ -78,6 +78,24 @@ The final feature list was exported as both .CSV and .MGF files. Both files with
 
 4380 features were cleaned after finalizing the data treatment. The final feature list is available [here](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/results/mzmine/mapp_batch_00111_quant.csv).
 
+### Statistical analyses
+
+#### Heatmap
+
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/heatmap_legend.png)
+
+<p align="center"> Figure ?: Heatmap - Abundance of MS features
+
+The heatmap (Figure ?) shows rather clearly distinct groups of features, characteristic for both the *Malus* and *Potentilla* genera, while *Prunus* appears to share its most intense features with the two other groups. As can be seen at the top of the graphic, the similarity tree shows *Potentilla* and *Prunus* as being more closely related to each other than to *Malus*. This is unexpected as this does not reflect the reality of the phylogenetic relationship existing between the three genera, where *Malus* and *Prunus* are closely related and *Potentilla* is more distant.
+
+#### PCA
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/PCA.png)
+
+The Principal Component Analysis (PCA) scores show *Malus* and *Potentilla* as being relatively close in the variable space in comparison to *Prunus*, which is slightly more distant. This stands in contrast to the results given in the heatmap where *Malus* is the clear outlier. Because PCA only allows the visualization of separation across the two main components of the variable space [^15], it could be the case that *Malus* possesses many small variations on least significant components that can not be reflected in this visualization, but are taken into account when making the hitmap and tree. This would explain the apparent contradiction of the results.
+
+#### PCoA
+
+
 ### Molecular Network
 
 The GNPS work produced a molecular network (Figure ?) and some interesting features will be discussed in the sections below 
@@ -195,3 +213,4 @@ Some conclusion that you could get out of this preliminary study.
 [^12]: Sun, P., Li, K., Wang, T., Ji, J., Wang, Y., Chen, K.-X., Jia, Q., Li, Y.-M., & Wang, H.-Y. (2019). Procyanidin C1, a Component of Cinnamon Extracts, Is a Potential Insulin Sensitizer That Targets Adipocytes. https://doi.org/10.1021/acs.jafc.9b02932
 [^13]: Nakano, N., Nishiyama, C., Tokura, T., Nagasako-Akazome, Y., Ohtake, Y., Okumura, K., & Ogawa, H. (2008). Procyanidin C1 from Apple Extracts Inhibits Fc RI-Mediated Mast Cell Activation. Int Arch Allergy Immunol, 147, 213–221. https://doi.org/10.1159/000142044
 [^14]: Aron, P. M., & Kennedy, J. A. (2008). Review Flavan-3-ols: Nature, occurrence and biological activity. Mol. Nutr. Food Res, 52, 79–104. https://doi.org/10.1002/mnfr.200700137
+[^15]: Plumb, R. S., Granger, J. H., & Stumpf, C. L. (2004). AN EXPLANATION OF PRINCIPAL COMPONENTS ANALYSIS (PCA) FOR METABONOMICS.
