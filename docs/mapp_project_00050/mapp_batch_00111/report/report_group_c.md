@@ -163,7 +163,7 @@ Procyanidin C1 is a trimer that has been shown to have senotherapeutic activity 
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/arecatannin_a2_figure.png)
 
-<p align="center"> Figure ?: MS2 spectra of Arecatannin A2 acid and molecular network of Arecatannin A2
+<p align="center"> Figure ?: MS2 spectra of Arecatannin A2, Procyanidin B2, Procyanidin C1 and their molecular network 
 
 ## Conclusion
 
