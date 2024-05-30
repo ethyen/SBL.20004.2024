@@ -153,18 +153,18 @@ Few features found in this analysis discriminate the *Prunus* genus from the *Ma
 
 1. **Arecatannin A2**
 
-Arecatannin A2 (feature id 2027) is found mainly in the *Prunus* genus along with procyanidin B2 (feature id 549, 2885) and procyanidin C1(feature id 1879, 2806) (Figure ?). These molecules are all proanthocyanidins and procyanidin oligomers.
+Arecatannin A2 (feature id 2027, 3790) is found mainly in the *Prunus* genus along with procyanidin B2 (feature id 549, 2885) and procyanidin C1(feature id 1879, 2806) (Figure ?). These molecules are all proanthocyanidins and procyanidin oligomers.
  
-Arecatannin A2 is a tetramer mostly known for its presence in *Areca catechu L.* (betel nut or areca nut)[^8], a type of fruit often chewed in southern Asia as part of its cultural and medicinal tradition. While betel nut utilization has been linked with oral forms of cancer, some epicatechin oligomers (such as arecatannin A3 but not A2) have been highlighted as possible anti-cancer agents [^9].
+Arecatannin A2 is a tetramer mostly known for its presence in *Areca catechu* L. (betel nut or areca nut)[^8], a type of fruit often chewed in southern Asia as part of its cultural and medicinal tradition. While betel nut utilization has been linked with oral forms of cancer, some epicatechin oligomers (such as arecatannin A3 but not A2) have been highlighted as possible anti-cancer agents [^9].
 Procyanidin B2 is a dimer also coming from betel nuts [^8]. It is an antioxidant that is present in other species as well, such as *Cinchona pubescens, Cinnamomum verum, Vitis vinifera* and plenty more. Most notably for this study perhaps, it is also found in apples [^10]. 
 Procyanidin C1 is a trimer that has been shown to have senotherapeutic activity and chemotherapy enhancing properties in preclinical studies conducted in mice models [^11]. Like procyanidin B2, it can be found in cinnamon [^12] and apples [^13]. 
-
-**Add fragmentation pattern of Procyanidin C1, B2 + molecule**
 
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/arecatannin_a2_figure.png)
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/procyanidin.png)
 
 <p align="center"> Figure ?: MS2 spectra of Arecatannin A2, Procyanidin B2, Procyanidin C1 and their molecular network 
+
+The major features of the network are overwhelmingly abundant in at least two species of *Prunus*, while research papers state that at least two of them are notably found in apples (*Malus*). This surprising result could be explained by the fact that the samples used in this study come from plant leaves and not fruits, on which previous research has been done. Minor features, meanwhile, show differences in their provenance. With proanthocyanidins being regarded as functional and health improving ingredients in beverages, food, and herbal remedies [^14], their proportional abundance in the leaves of the Prunus genus could be an interesting starting point to investigate their presence in other parts of the plants and how they compare with other species known to contain these metabolites.
 
 ## Conclusion
 
@@ -194,3 +194,4 @@ Some conclusion that you could get out of this preliminary study.
 [^11]: Xu, Q., & Fu, Q. ✉. (2021). The flavonoid procyanidin C1 has senotherapeutic activity and increases lifespan in mice. Nature Metabolism, 3. https://doi.org/10.1038/s42255-021-00491-8
 [^12]: Sun, P., Li, K., Wang, T., Ji, J., Wang, Y., Chen, K.-X., Jia, Q., Li, Y.-M., & Wang, H.-Y. (2019). Procyanidin C1, a Component of Cinnamon Extracts, Is a Potential Insulin Sensitizer That Targets Adipocytes. https://doi.org/10.1021/acs.jafc.9b02932
 [^13]: Nakano, N., Nishiyama, C., Tokura, T., Nagasako-Akazome, Y., Ohtake, Y., Okumura, K., & Ogawa, H. (2008). Procyanidin C1 from Apple Extracts Inhibits Fc RI-Mediated Mast Cell Activation. Int Arch Allergy Immunol, 147, 213–221. https://doi.org/10.1159/000142044
+[^14]: Aron, P. M., & Kennedy, J. A. (2008). Review Flavan-3-ols: Nature, occurrence and biological activity. Mol. Nutr. Food Res, 52, 79–104. https://doi.org/10.1002/mnfr.200700137
