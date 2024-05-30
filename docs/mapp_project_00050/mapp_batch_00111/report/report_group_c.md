@@ -91,19 +91,42 @@ The heatmap (Figure ?) shows rather clearly distinct groups of features, charact
 #### PCA
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/PCA.png)
 
-The Principal Component Analysis (PCA) scores show *Malus* and *Potentilla* as being relatively close in the variable space in comparison to *Prunus*, which is slightly more distant. This stands in contrast to the results given in the heatmap where *Malus* is the clear outlier. Because PCA only allows the visualization of separation across the two main components of the variable space [^15], it could be the case that *Malus* possesses many small variations on least significant components that can not be reflected in this visualization, but are taken into account when making the hitmap and tree. This would explain the apparent contradiction of the results.
+<p align="center"> Figure ?: Principal Component Analysis (PCA) on the nine samples
+
+The Principal Component Analysis (PCA) (Figure ?) scores show *Malus* and *Potentilla* as being relatively close in the variable space in comparison to *Prunus*, which is slightly more distant. This stands in contrast to the results given in the heatmap where *Malus* is the clear outlier. Because PCA only allows the visualization of separation across the two main components of the variable space [^15], it could be the case that *Malus* possesses many small variations on least significant components that can not be reflected in this visualization, but are taken into account when making the hitmap and tree. This would explain the apparent contradiction of the results.
 
 #### PCoA
 
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/PCoA.png)
+
+<p align="center"> Figure ?: Principal Coordinates Analysis (PCoA) on the nine samples
+
+The Principal Coordinates Analysis (PCoA) (Figure ?) shows the three groups to be equidistant. Similarly to the PCA, a lot of variation is lost in this visualization, which could explain the differences with the heatmap’s results. In contrast to the PCA, PCoA requires a calculation of the distances between the points prior to the reduction of the component space. This additional step explains the difference with the PCA results.
+
+#### PLS-DA
+
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/PLS-DA.png)
+
+<p align="center"> Figure ?: Partial Least-Squares Discriminant Analysis (PLS-DA) on the nine samples
+
+The Partial Least-Squares Discriminant Analysis (PLS-DA) (Figure ?) shows *Malus* and *Prunus* as being closer to one another than to *Potentilla*, the outlier. This is in accordance with the hypothesis that the chemotaxonomy should match the phylogeny of the genera that we analyzed. It is not in accordance, however, with the heatmap, PCA, and PCoA outputs. Contrary to the PCA, the PLS-DA is made while being aware of the group labels [^16]. The calculation then aims to separate the groups by variance rather than to separate the points. Although this returns a result more in line with the initial working hypothesis, it is complicated to take it as gospel given the variety of other results obtained through other methods. No general trend can be discerned.
+
+#### PLS-VIP
+
+![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/VIP.png)
+
+
+<p align="center"> Figure ?: VIP scores in the PLS-DA analysis
+
+The VIP score for the PLS-DA analysis (Figure ?) shows the principal differentiating features between genera. Most features reported appear as single nodes or small connected networks in cytoscape making them difficult to interpret and discuss but some of them are part of bigger clusters which will be discussed in the following parts of this study.
 
 ### Molecular Network
 
-The GNPS work produced a molecular network (Figure ?) and some interesting features will be discussed in the sections below 
-**Add GNPS job and identification table**
-
 ![image](https://github.com/commons-teaching/SBL.20004.2024/blob/main/docs/mapp_project_00050/mapp_batch_00111/report/figures_report/molecular_network_figure.png)
 
-<p align="center"> Figure ?: Molecular network 
+<p align="center"> Figure ?: Molecular network based on MS features
+
+The molecular network shows a wide range of trees containing many interconnected nodes. The selection of trees of interest for this study is based of a few criteria. Firstly, because the interest lies in the differentiation of genera, the most important metabolites of the network must be present in more than one species of a given genus. Secondly, the network must contain a sufficient amount of nodes so as to minimize the chances of analyzing an artefact. Lastly, the metabolites of interest should not be present in the blank, or in very small amounts. The following section will show some of the networks meeting these standards.
 
 #### *Potentilla* discriming features
 Some features found in this analysis discriminate the *Potentilla* genus from the *Malus* and *Prunus* genera and three will be presented below.
@@ -214,3 +237,4 @@ Some conclusion that you could get out of this preliminary study.
 [^13]: Nakano, N., Nishiyama, C., Tokura, T., Nagasako-Akazome, Y., Ohtake, Y., Okumura, K., & Ogawa, H. (2008). Procyanidin C1 from Apple Extracts Inhibits Fc RI-Mediated Mast Cell Activation. Int Arch Allergy Immunol, 147, 213–221. https://doi.org/10.1159/000142044
 [^14]: Aron, P. M., & Kennedy, J. A. (2008). Review Flavan-3-ols: Nature, occurrence and biological activity. Mol. Nutr. Food Res, 52, 79–104. https://doi.org/10.1002/mnfr.200700137
 [^15]: Plumb, R. S., Granger, J. H., & Stumpf, C. L. (2004). AN EXPLANATION OF PRINCIPAL COMPONENTS ANALYSIS (PCA) FOR METABONOMICS.
+[^16]: Ruiz-Perez, D., Guan, H., Madhivanan, P., Mathee, K., & Narasimhan, G. (2020). So you think you can PLS-DA? BMC Bioinformatics, 21. https://doi.org/10.1186/s12859-019-3310-7
