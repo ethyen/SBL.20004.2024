@@ -12,7 +12,7 @@ In their natural habitats, plants are the target of a large number of herbivores
 
 The aim of these project was to try to detect those defense compounds by analysing the change in the metabolome of _Biscutella laevigata_ in response to herbivory by _Plutella xylostella_. 
 
-_Biscutella laevigata_, the buckler-mustard, is a plant from the _Brassicaceae_ family, growing in the alpine regions of Europe. _Plutella xylostella_ , the diamondback moth, is a moth species from the Plutellidae family. The larvae feed on the plants of the _Brassicaeae_ family. 
+_Biscutella laevigata_, the buckler-mustard, is a plant from the _Brassicaceae_ family, growing in the alpine regions of Europe. _Plutella xylostella_ , the diamondback moth, is a worlwide spread moth species from the Plutellidae family. The larvae feed on the plants of the _Brassicaeae_ family. 
 
 ## Material & Methods
 ### Experimental setup
@@ -23,7 +23,7 @@ The treatment consisted of approximately 20 larvae put on one leaf for 24 hours.
 One leaf was collected per control plant. On the treated plants, the leaf that received the herbivores were collected, as well as an other leaf on the same plant for the 'distant treatment'. The larvae that fed on the leaves were also collected for analysis, as well as larvae that didn't came in contact with the plants as control.
 After collection, each sample was immediately frozen in liquid nitrogen in order to stop any metabolic reaction.
 
-•	Link to the iNaturalist entries of your species.
+[Here]() you can find the iNaturalist entries of the species.
 ### Sample preparation
 
 Each sample were dry and then weighted, and put in centrifuge tubes. To extract metabolites, 1700µl of a solution containing 80% of methanol, 20% of H2O and 0.1% of formic acid  were added. Tubes were put in Mixer Mill, disrupt the tissues. Then, the samples were prepared for the MS. In addition to the prepared samples, we also mixed the plants into a new sample, and a second one containing the plants and the herbivores, as quality controls.
